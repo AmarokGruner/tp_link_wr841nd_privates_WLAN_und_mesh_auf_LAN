@@ -16,7 +16,7 @@ config wifi-device 'radio0'
 config wifi-iface 'wifi_freifunk'
         option device 'radio0'
         option mode 'ap'
-        option ssid 'uelzen.freifunk.net'
+        option ssid 'hamburg.freifunk.net'
         option encryption 'none'
         option network 'freifunk'
 
